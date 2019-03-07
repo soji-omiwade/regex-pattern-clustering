@@ -1,6 +1,8 @@
 import re
 import sys
 """Scope
+    author: soji omiwade
+    
     usage: python string_clustering.py regex_list_filename 
         strings_to_match_filename
     
