@@ -1,0 +1,5 @@
+name:My name is \w+
+ip_address:\d+\.\d+\.\d+\.\d+
+roses:Roses are \w+
+more_roses:Violet.+
+flowers: Helen
